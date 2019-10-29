@@ -1,10 +1,6 @@
 # faculty
 <html>
 
-<head>
-
-
-</head>
 
 <body>
 <h1 style="text-align:center">FACULTY BLOG</h1>

@@ -32,6 +32,4 @@
    <li>mr.zzzzzzz</li>
 </ul>
 
-</body>
 
-</html>

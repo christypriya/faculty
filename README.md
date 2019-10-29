@@ -13,7 +13,23 @@
   <li>DR.meena</li>
    <li>DR.Bhavani</li>
    <li>DR.annie</li>
-  <li>DR>Kumar</li>
+  <li>DR.Kumar</li>
+</ul>
+
+<h3>Teaching staffs</h3>
+<ul>
+  <li>miss.poovila</li>
+   <li>miss.gayathri</li>
+   <li>miss.yuu</li>
+   <li>miss.jdf</li>
+</ul>
+
+<h3>Technical staffs</h3>
+<ul>
+  <li>mr.suresh</li>
+   <li>mr.xxxx</li>
+   <li>mr.yyyy</li>
+   <li>mr.zzzzzzz</li>
 </ul>
 
 </body>

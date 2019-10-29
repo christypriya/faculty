@@ -32,4 +32,7 @@
    <li>mr.zzzzzzz</li>
 </ul>
 
-
+<p> The computer science and engineering is one of the most eminent programme in GCT. The four year under graduate programme in Computer Science is intended to train the students in both advanced areas in the core courses and specialized topics in the emerging technology.</p>
+<p>
+Department of CSE - Vision & Mission To be in the frontier of Computer Science and Engineering and to produce globally competent graduates with moral values committed to build a vibrant nation.
+  </p>
